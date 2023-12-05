@@ -1,3 +1,3 @@
-[!Open on Visual Studio](https://aroumzombra.github.io/RestAPI_Project/)
+[![Open in Visual Studio Code](https://aroumzombra.github.io/RestAPI_Project/)]
 
 # RestAPI_Project
